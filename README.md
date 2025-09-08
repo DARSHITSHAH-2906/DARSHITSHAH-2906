@@ -1,12 +1,3 @@
-<!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
@@ -72,7 +63,7 @@ Check out my latest post 👇
         <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" alt="Leetcode" width="50" height="50"/>
     </a>
     <a href="https://darshit-portfolio.web.app">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Portfolio" width="50" height="50"/>
+        <img src="./img.jpg" alt="Portfolio" width="50" height="50"/>
     </a>
     <a href="https://wa.me/+919594457157">
         <img src="https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e?h=210" alt="Whatsapp" width="50" height="50"/>
@@ -85,7 +76,7 @@ Check out my latest post 👇
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="./resume.pdf" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35&section=footer" alt="footer"/>
 
