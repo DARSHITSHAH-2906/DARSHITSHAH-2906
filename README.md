@@ -78,7 +78,7 @@ Check out my latest post 👇
 > [!IMPORTANT]  
 > <a href="./resume.pdf" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35&section=footer" alt="Footer"/>
 
 <!--
      Thanks for being my guest <3
