@@ -47,7 +47,7 @@
     <a href="https://leetcode.com/u/darshitshah506092/">
         <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" alt="Leetcode" width="50" height="50"/>
     </a>
-    <a href="https://darshit-portfolio.web.app">
+    <a href="https://darshitshah7681.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" width="100" height="100"/>
     </a>
     <a href="https://wa.me/+919594457157">
@@ -59,7 +59,7 @@
      Oh, hello there, recruiters!
 -->
 <br></br>
-> <a href="./resume.pdf" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1vNaVtF9SZWozVFZXUVGWWBQc-SQOkoVC/view?usp=sharing" download>Download my resume</a>
 
 <div align="center">
   <h2> My Contributions </h2>
